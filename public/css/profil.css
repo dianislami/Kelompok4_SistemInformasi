@@ -1,0 +1,18 @@
+:root{
+    --color-primary:#0C3A2F;
+    --color-secondary:#6D9773;
+    --color-background-light:#CAD9CC;
+    --color-yellow:#FFBA00;
+    --color-red:#CD310B;
+    --color-linear:linear-gradient(to bottom, #CAD9CC, #e8f0e9, #eaddba);;
+
+    --border-radius: 10px;
+    --btn-radius: 20px;
+    --photo-border-radius: 15px;
+    --card-padding: 15px;
+    --btn-padding: 3px 15px;
+}
+
+.container {
+    padding: 0px;
+}
